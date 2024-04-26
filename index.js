@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing CH San DIego RP","CH San Diego RP","V2 Lu"];
+const statusMessages = ["CDN","Puro CDN"];
 
 
 let currentIndex = 0;
