@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["CDN","Puro CDN"];
+const statusMessages = ["CDS","Indev Lu"];
 
 
 let currentIndex = 0;
